@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1333 569
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 30 228 2 2 15 
+"" 887 491 0 
+"<N+subst>" 52 129 3 4 3 5 
+"<NB>" 192 66 3 6 4 5 
+"\:" 251 161 2 7 5 
+",+.+-+\++\:+$+et+si+'" 1231 236 1 9 
+"<<(mg|ml|µg|G|MG|ML|flacon|mcg|amp|cp)>>" 151 18 3 9 4 5 
+"<NB>+\/+½+²+<PREP>+<DET>+comprimé+jour+midi+soir+gélule+sachet+au+coucher+matin+voix+orale+douleur+si+demande+mars+jours+toutes+les+heures+en+cas+heures+gélules+fois+sachets+d+constipation+,+hyperthermie+’hyperthermie+'+heure+mL,+besoin+pendant+un+mois+agitation+Eau+gélifiée+(+)+poursuivre+encore+semaine+injection+sous+cutanée+seul+en+restant+votre+ solution+disposition+pansements+solution+pour+perfusion+flacon+soins+coucher+g+l+x+jr+J1+cp+mg+m²+douleurs+j+J+h+cps+ml+mL+ng" 1055 684 4 11 9 4 16 
+"<N+subst>+<FIRST>+<^>+xatral+auquel+esidrex+oui+non+ensure+loxen+bronchodual+aotal+arrete+oxycontin+,+prise+topalgic+avec+dénutrition+ferrograd+recontrôler+ainsi+de" 737 181 4 10 8 5 1 
+"$![" 528 49 2 8 5 
+"$]" 868 52 2 7 5 
+"_" 416 373 2 13 5 
+"<NB>" 479 438 3 14 12 5 
+"$[" 447 441 2 12 5 
+"$]" 553 439 2 9 5 
+"<posologie>" 54 325 2 16 5 
+"\:+cpr+h+<NB>+(+)+A+la+demande+sachet+gel+-+,+à" 220 433 3 16 5 1 
